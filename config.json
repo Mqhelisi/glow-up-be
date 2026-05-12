@@ -1,0 +1,39 @@
+{
+  "_comment": "Edit this file to swap the salon's branding/persona. Restart the backend after changes. Secrets (DATABASE_URL, ADMIN_PASSWORD, FLASK_SECRET_KEY) belong in .env, not here.",
+  "site": {
+    "name": "Glow Up by Kay",
+    "tagline": "Beauty Spa — modern nail artistry, by appointment only",
+    "hero_kicker": "Booked & glowing",
+    "hero_review_quote": "Truly the best in town. The shape, the colour, the chair-side care — perfect.",
+    "hero_review_author": "Jordan R.",
+    "city": "Riverside",
+    "region": "Riverside",
+    "country": "United States",
+    "address_line": "Private home studio · 5 min from town centre",
+    "google_maps_url": "",
+    "logo_url": "/logo.png"
+  },
+  "tech": {
+    "name": "Kay",
+    "title": "Nail technician & studio owner",
+    "phone": "+1 (555) 010-0123",
+    "whatsapp_number": "+15550100123",
+    "instagram_handle": "@glowupbykay",
+    "instagram_url": "https://instagram.com/glowupbykay",
+    "tiktok_url": "",
+    "email": "hello@glowupbykay.example",
+    "years_experience": 5,
+    "sets_done": 500,
+    "rating": "4.9"
+  },
+  "operations": {
+    "timezone": "America/New_York",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "lead_time_minutes": 30
+  },
+  "messaging": {
+    "booking_confirm_window": "She'll confirm on WhatsApp within 1 hour.",
+    "frontend_base_url": "http://localhost:5173"
+  }
+}
